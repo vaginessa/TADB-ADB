@@ -1,0 +1,9 @@
+build/**
+/build
+.idea
+.vscode
+
+/cmake-build-debug/
+
+/TADB/target
+libTADB.a
